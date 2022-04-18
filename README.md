@@ -9,5 +9,5 @@ My dreams are: *to become a important, succesful, good developer/programmer in t
 My fears are: *spiders, dizziness and few more*
 -------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1n3&layout=compact" alt="Fline" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fl1n3&show_icons=true" alt="Fline" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerTayFu&layout=compact" alt="Scythe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SerTayFu&show_icons=true" alt="Scythe" /></p>
